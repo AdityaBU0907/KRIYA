@@ -105,7 +105,7 @@ export function AppSidebar() {
       </>
     )
   }
-
+//logo
   return (
     <div className="hidden md:flex h-screen w-64 flex-col border-r bg-sidebar">
       <div className="flex items-center h-16 px-4 border-b">
