@@ -2,7 +2,7 @@
 
 import React, { createContext, useContext, useState, useEffect } from "react"
 
-// Define all supported languages
+// Define all supported language
 export const languages = {
   english: "English",
   hindi: "हिन्दी",
